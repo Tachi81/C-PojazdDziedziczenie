@@ -17,5 +17,5 @@ namespace PojazdDziedziczenie
         }
     }
 }
-//Napisz klasę Vehicle w której Będzie metoda Beep() i metoda Wrum() w klasie Car która będzie rozszerzać vehicle jedną z tych metod 
-//    przesłoń a drugą nadpisz 
+//Napisz klasę Vehicle w której Będzie metoda Beep() i metoda Wrum() w klasie Car która będzie rozszerzać vehicle 
+//jedną z tych metod  przesłoń a drugą nadpisz 

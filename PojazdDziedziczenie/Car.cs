@@ -11,7 +11,7 @@ namespace PojazdDziedziczenie
         public override void Beep(string sound)
         {
             base.Beep(sound);
-            Console.WriteLine("trabie innaczej");
+            Console.WriteLine("trabie jak vehicle");
         }
 
 
